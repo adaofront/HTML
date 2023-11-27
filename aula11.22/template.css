@@ -1,0 +1,17 @@
+* {margin: 0px; padding: 0px; box-sizing: border-box; font-size: 26px; color: #ffffff;}
+
+body { background-color: #2e2e2e; display: grid; grid-template-areas ;grid-template-columns: 3fr 9fr;:
+    "header headern"
+    "nav main"
+    "nav main"
+    "area morta"
+    "area morta"
+    "area morta"
+    "footer footer"
+    ;}
+
+header { grid-area: header; background-image: linear-gradient( to right, #966f96 #ffcbdb);}
+nav { grid-area: nav; background-image: linear-gradient( to right, #966f96 #ffcbdb);}
+div {grid-area: areamorta; }
+main { grid-area: main;background-image: linear-gradient( to right, #966f96 #ffcbdb); }
+footer{grid-area: footer;background-image: linear-gradient( to right, #966f96 #ffcbdb);}
