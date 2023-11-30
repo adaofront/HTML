@@ -1,0 +1,9 @@
+* { margin: 0px; padding: 0px ;box-sizing: border-box;}
+
+.fade { width: 200px; height: 200px; margin: 0px auto; background-color: #808080; text-align: center; color: #ffffff; font-size: 42px; opacity: 0,5;}
+
+fader:hover { opacity: 1,0; transition: 0,8s;}
+
+.grow { width: 200px; height: 200px ; margin: 0px auto; background-color: #808080; text-align: center; color: #ffffff; font-size: 42px; -webkit-transform: scale(1.3); }
+
+.grow:hover { transform: scale(1.3); transition: 0.8s; }
