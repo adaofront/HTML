@@ -1,0 +1,30 @@
+.largura { max-width: 500px; height: 300px; border: 2px dotted black;  }
+
+.row {height: 100%;}
+
+.col-6 { border: 2px dashed red; height: 25px; margin: 0px 0px; }
+
+.col-3, .col-3 { height: 25px; margin: 0px;}
+
+.bi.bi-bell {font-size: 40px; color: green; margin: 2px;}
+
+.bi bi-arrow-through-heart-fill { font-size: 40px; color: green; margin: 2px;}
+
+header {text-align: center;}
+
+/* inicio do header*/
+
+footer { background-color: #1c1c1c;}
+
+a { text-decoration-line: none;}
+
+.row {max-width: 600px; margin: 0px auto;}
+
+body { height: 100vh; width: 100vw;}
+
+.container-fluid  { width: 100%; height: 100%;}
+
+
+
+/* inicio da atividade*/
+
